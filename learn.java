@@ -30,12 +30,6 @@ public class learn {
 
          System.out.print("My number was: ");
          System.out.println(myNumber);
-
-     
-
-
-     
-
       
 
 
